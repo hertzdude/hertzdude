@@ -1,11 +1,11 @@
 ### 🐶 Richard Hertz
 PHP (5 years), Elixir (3 years), Python (3 years)
-+ #### About me:
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite movie** - Thursday
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite book** - A Man Called Ove
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite anime** - GTO
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite game** - Full Throttle
-    + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite motorcycle** - 2017 Kawasaki Ninja 1000 ABS<br/><br/>
+### 💪 About me:
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite movie** - Thursday
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite book** - A Man Called Ove
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite anime** - GTO
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite game** - Full Throttle
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite motorcycle** - 2017 Kawasaki Ninja 1000 ABS<br/><br/>
 
 ### 👔 Skills:
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Back-end** -- 💧 Elixir (3 years)
