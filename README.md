@@ -1,5 +1,5 @@
 ### 🐶 Richard Hertz
-PHP (7 years), Elixir (3 years), Python (3 years)
+Python (4 years), Elixir (3 years), PHP (7 years)
 ### 💪 About me:
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite movie** - Thursday
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite book** - A Man Called Ove
@@ -8,9 +8,9 @@ PHP (7 years), Elixir (3 years), Python (3 years)
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Favorite motorcycle** - 2017 Kawasaki Ninja 1000 ABS<br/><br/>
 
 ### 👔 Skills:
++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Desktop apps** -- 🐍 Python (4 years)
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Back-end** -- 💧 Elixir (3 years)
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **GameDev** -- 🎮 C#
-+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Desktop apps** -- 🐍 Python (3 years)
 + &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ~~💩 PHP (7 years)~~
 <br/><br/>
 
